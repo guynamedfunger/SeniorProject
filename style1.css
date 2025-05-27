@@ -107,9 +107,12 @@ a:link {
 }
 
 .imgstyle2 {
-    width: 60%;
+    width: 70%;
+    height: 85px;
+    opacity: 0.85;
 }
 
 .imgstyle3 {
     width: 90%;
+    height: 75px;
 }
