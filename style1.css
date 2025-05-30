@@ -83,7 +83,7 @@ a:link {
     background-color: #0c0c1b;
     color: #d3d3e6;
     height: 50%;
-    width: 50%;
+    width: 55%;
     margin: auto;
     margin-top: 2.5%;
     margin-bottom: 2.5%;
@@ -115,4 +115,9 @@ a:link {
 .imgstyle3 {
     width: 90%;
     height: 75px;
+}
+
+.imgstyle4 {
+    height: 400px;
+    width: 400px;
 }
