@@ -104,6 +104,8 @@ a:link {
     border: #626178 2px solid;
     padding: 2px;
     margin: 13px;
+    width: 40%;
+    height: auto;
 }
 
 .imgstyle2 {
